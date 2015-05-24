@@ -35,8 +35,10 @@ Def.Xnum=21
 
 Def.Persona.Data.Xnum={Def.Xnum}
 
-Schedule B=Schedule B
+Schedule_A=Schedule A
 
-Schedule F=Schedule F
+Schedule_B=Schedule B
 
-	  
+Schedule_C=Schedule C
+
+Schedule_F=Schedule F
