@@ -4,7 +4,7 @@ Ti=Compensation and Payment Terms
 
 Note=<i>If: {Supplier} is based in France, {Services} are to be performed in France or {this_Agreement} is governed by French law, please contact the {P1.Handle} Energy Sourcing Finance Manager prior to utilizing the payment terms language set forth below in Section {4.4}.</i>
 
-PerSchedule.Sec={Supplier} shall be paid on a time and materials basis according to the Fee Schedule attached hereto as {AGT.Exh.A} or as provided in any applicable PO or SOW with expenses reimbursed in accordance with the {P1.Handle} Travel Policy attached hereto as {AGT.Exh.E}. The foregoing will be the entire compensation to be paid to {Supplier} and will be in full discharge of any and all liability in contract or otherwise with respect to all {Services} rendered by the {Supplier} and {Supplier Personnel}.
+PerSchedule.Sec={Supplier} shall be paid on a time and materials basis according to the Fee Schedule attached hereto as {Agt.Exh.A} or as provided in any applicable PO or SOW with expenses reimbursed in accordance with the {P1.Handle} Travel Policy attached hereto as {Agt.Exh.E}. The foregoing will be the entire compensation to be paid to {Supplier} and will be in full discharge of any and all liability in contract or otherwise with respect to all {Services} rendered by the {Supplier} and {Supplier_Personnel}.
 
 Currency.Sec=All fees will be paid in U.S. Dollars and delivered to Supplier's principal place of business specified in the first paragraph of {this_Agreement}.  {Supplier} warrants that it is authorized to receive payment in the currency stated in {this_Agreement} or any applicable PO or SOW.
 

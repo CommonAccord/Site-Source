@@ -19,15 +19,15 @@
 
 17.5={17}.5
 
-AGT.Exh.A=Exhibit A
+Agt.Exh.A=Exhibit A
 
-AGT.Exh.B=Exhibit B
+Agt.Exh.B=Exhibit B
 
-AGT.Exh.C=Exhibit C
+Agt.Exh.C=Exhibit C
 
-AGT.Exh.D=Exhibit D
+Agt.Exh.D=Exhibit D
 
-AGT.Exh.E=Exhibit A
+Agt.Exh.E=Exhibit A
 
 Expire.Xnum=17
 

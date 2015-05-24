@@ -38,7 +38,7 @@ Agrees.2.=[Z/Sec/s4]
 
 Agrees.3.sec=it and Supplier’s Personnel shall, upon reasonable notice, attend and participate in compliance briefings conducted by {Company} representatives; and
 
-Agrees.4.0.sec=neither it nor any of {Supplier Personnel} shall communicate in any manner with:
+Agrees.4.0.sec=neither it nor any of {Supplier_Personnel} shall communicate in any manner with:
 
 Agrees.4.1.sec=any officer or employee of any Federal agency of the United States for or on behalf of {Company} with respect to any contract or federal procurement; or
 

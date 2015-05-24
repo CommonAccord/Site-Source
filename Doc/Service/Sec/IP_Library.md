@@ -19,9 +19,9 @@ CP.Assign.0.sec=Supplier agrees that:
 
 CP.Assign.1.sec=All copyrightable Intellectual Property, which are created by Supplier pursuant to {this_Agreement}, shall be deemed "Works Made for Hire", as that phrase is defined in Section 101 of the United States Copyright Act, 17 U.S.C. § 101, and used in 17 U.S.C. § 201, on behalf of {Company}, and {Company} shall own all right, title and interest, including the worldwide copyright, in and to such materials;
 
-CP.Assign.2.sec=Supplier hereby assigns and agrees to assign to {Company} all of its respective rights, title, and interest in {Company_Property}, including all rights of inventorship and authorship, all patents and patent applications, all copyrights, all trademark and service mark rights, all rights in trade secret and proprietary information, all rights of attribution and integrity and other moral rights and all other intellectual property rights of any type (collectively referred to herein as "IP Rights”);
+CP.Assign.2.sec=Supplier hereby assigns and agrees to assign to {Company} all of its respective rights, title, and interest in {Company_Property}, including all rights of inventorship and authorship, all patents and patent applications, all copyrights, all trademark and service mark rights, all rights in trade secret and proprietary information, all rights of attribution and integrity and other moral rights and all other intellectual property rights of any type (collectively referred to herein as "{IP_Rights}”);
 
-CP.Assign.3.sec=Supplier and Supplier's successors in interest will, at {Company}'s request and without further consideration, communicate to {Company} any facts known to them respecting {Company_Property}, and testify in any legal proceedings, make all rightful oaths, sign all lawful papers and other instruments and generally do everything possible for title to the IP Rights in the {Company_Property} to be clearly and exclusively held by {Company}; and
+CP.Assign.3.sec=Supplier and Supplier's successors in interest will, at {Company}'s request and without further consideration, communicate to {Company} any facts known to them respecting {Company_Property}, and testify in any legal proceedings, make all rightful oaths, sign all lawful papers and other instruments and generally do everything possible for title to the {IP_Rights} in the {Company_Property} to be clearly and exclusively held by {Company}; and
 
 CP.Assign.4.sec=Supplier agrees that it will not apply for any state, federal or other U.S. or foreign jurisdiction's registration of rights in any of the {Company_Property} and that it will not oppose or object in any way to applications for registration of same by {Company} or others designated by {Company}.
 
@@ -43,15 +43,15 @@ SP.3.sec=make, use, distribute, perform, display and transmit Supplier’s Reser
 SP.=[Z/Sec/s3]
 
 
-3P.Ti=Third Party Intellectual Property
+3P.Ti={Third_Party_Intellectual_Property}
 
 3.0.sec=Supplier shall not, without {Company}’s written authorization, disclose or use, in Supplier’s work with the {Company}, any secret or confidential information of others, nor incorporate into the {Services} and/or any deliverables to {Company} under {this_Agreement}:
 
-3P.1.sec=any software, applications, or components or other materials subject to Intellectual Property rights owned by any party (including Supplier) other than {Company} ("Third Party Intellectual Property”); or
+3P.1.sec=any software, applications, or components or other materials subject to Intellectual Property rights owned by any party (including Supplier) other than {Company} ("{Third_Party_Intellectual_Property}”); or
 
-3P.2.sec=any software, applications, or components or other materials, which are functionally dependent upon {Company}’s use of Third Party Intellectual Property.
+3P.2.sec=any software, applications, or components or other materials, which are functionally dependent upon {Company}’s use of {Third_Party_Intellectual_Property}.
 
-3P.90.sec=If {Company} provides such written authorization, Supplier shall, in the absence of written agreement to the contrary, provide, at no expense to {Company}, all licenses to such Third Party Intellectual Property and which {Company} does not already have and which are reasonably necessary for {Company} to lawfully make all uses of the {Services} and/or any deliverables contemplated in {this_Agreement}
+3P.90.sec=If {Company} provides such written authorization, Supplier shall, in the absence of written agreement to the contrary, provide, at no expense to {Company}, all licenses to such {Third_Party_Intellectual_Property} and which {Company} does not already have and which are reasonably necessary for {Company} to lawfully make all uses of the {Services} and/or any deliverables contemplated in {this_Agreement}
 
 3P.=[Z/Sec/s2]
 
