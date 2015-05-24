@@ -1,24 +1,23 @@
-1.4=1.4
+Confidential.Xnum=5
 
-3.5.1=3.5(1)
+IP.Xnum=6
 
-3.5.2=3.5(2)
+PersonalData.Xnum=7
 
-4.4=4.4
+Warrant.Xnum=10
 
-6.1.3=6.1.3
+Assure.Xnum=11
 
-6.2.1=6.2(1)
+Comply.Xnum=13
 
-6.2.3=6.2(3)
+Environment.Xnum=14
 
-11.3.2-11.3.4=11.3(2)-(4)
+Expire.Xnum=16
 
-17=17
+Dispute.Xnum=22
 
-17.4={17}.4
+Def.Xnum=22
 
-17.5={17}.5
 
 Agt.Exh.A=<font color="blue">Exhibit A</font>
 
@@ -30,11 +29,6 @@ Agt.Exh.D=<font color="blue">Exhibit D</font>
 
 Agt.Exh.E=<font color="blue">Exhibit A</font>
 
-Expire.Xnum=17
-
-Def.Xnum=21
-
-Def.Persona.Data.Xnum={Def.Xnum}
 
 Schedule_A=<font color="blue">Schedule A</font>
 
