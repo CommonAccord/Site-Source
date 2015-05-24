@@ -6,7 +6,6 @@ Ti=Examples of Forms and Document Structures
 
 3.=<a href="http://ga4gh.commonaccord.org/index.php?action=list&file=./Demo/">Global Alliance For Genomics and Health</a>
 
-4.=[Privacy/CPBR/Policy/Acme_Privacy_Policy.01.md]
+4.=<a href="http://www.commonaccord.org/index.php?action=source&file=/Privacy/CPBR/Policy/Acme_Privacy_Policy.01.md">Chain of Privacy</a>
 
 Note=Nothing to render
-
