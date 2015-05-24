@@ -1,7 +1,7 @@
-     <p align="center"><img src="assets/cmacc-trans.png" style="width:35%" /></p>
+<p align="center"><img src="assets/cmacc-trans.png" style="width:35%" /></p>
 
-<table><tr><td>Welcome to a subdomain of CommonAccord.
-<br><br> 
+   <table><tr><td>Welcome to a subdomain of CommonAccord.  This site is a home for codification of the legal aspects of supply chains.  We also propose integration with P2P transaction systems.
+<br><br>
 
 <a href="index.php?action=list&file=/">Documents</a>:<br>
 
