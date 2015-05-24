@@ -4,7 +4,7 @@ xlist=<ol><li>{Def.Affiliate}<li>{Def.Company}<li>{Def.Company_Affiliate}<li>{De
 
 0.sec=The following capitalized terms used in {this_Agreement} have the following meanings:
 
-Def.Affiliate=<b>"{Affiliate}"</b> means<ol><li>with respect to {Company}, a {Company_Affiliate}; and</li><li>with {Supplier}, a {Supplier Affiliate}.</li></ol>
+Def.Affiliate=<b>"{Affiliate}"</b> means<ol><li>with respect to {Company}, a {Company_Affiliate}; and</li><li>with {Supplier}, a {Supplier_Affiliate}.</li></ol>
 
 Def.Company=<b>"{Company}"</b> has the meaning defined in the prologue to {this_Agreement}.
 
@@ -28,23 +28,23 @@ Def.Proprietary_Information=<b>"Proprietary Information"</b> means information t
 
 Propietary_Information.Impart.List=<ol><li>in writing or by email or other tangible electronic storage medium and is clearly marked "Confidential" or "Proprietary"; or</li><li>orally or visually, and then followed within thirty (30) working days thereafter with a summary or disclosure complying with the requirements of clause (i) above.</li></ol> 
 
-Proprietary_Information.Include-By-Category={Proprietary Information} includes, without limitation: <ol><li>commercially valuable information of {Company_and_its_Affiliates} and their successors and assigns, the design and development of which required considerable amounts of time and money;</li><li>any Software Product developed by {Company_and_its_Affiliates} and/or their successors and assigns; and </li><li>any {Company_Property}.</li></ol>
+Proprietary_Information.Include-By-Category={Proprietary Information} includes, without limitation: <ol><li>commercially valuable information of {Company_and_its_Affiliates} and their successors and assigns, the design and development of which required considerable amounts of time and money;</li><li>any {Software_Product} developed by {Company_and_its_Affiliates} and/or their successors and assigns; and </li><li>any {Company_Property}.</li></ol>
 
 Def.Secrecy_and_Inventions_Agreement=<b>"{Secrecy_and_Inventions_Agreement}"</b> means the Secrecy and Inventions Agreement attached hereto as {Schedule_B}.
 
 Def.Software_Materials=<b>"{Software_Materials}"</b> means a copy of the object code, source code, documentation and all annotations thereto relating to any software delivered by {Supplier}  to {Company} under {this_Agreement}.
 
-Def.Software_Product=<b>"{Software Product}"</b> means any computer software product and related information.
+Def.Software_Product=<b>"{Software_Product}"</b> means any computer software product and related information.
 
 Def.Supplier=<b>"{Supplier}"</b> has the meaning defined in the prologue to {this_Agreement}.
 
-Def.Supplier_Affiliate=<b>"{Supplier Affiliate}"</b> means, with respect to {Supplier}, any entity, including without limitation, any individual, corporation, company, partnership, limited liability company or group, that directly, or indirectly through one or more intermediaries, controls, is controlled by or is under common control with {Supplier}.
+Def.Supplier_Affiliate=<b>"{Supplier_Affiliate}"</b> means, with respect to {Supplier}, any entity, including without limitation, any individual, corporation, company, partnership, limited liability company or group, that directly, or indirectly through one or more intermediaries, controls, is controlled by or is under common control with {Supplier}.
 
-Def.Supplier's_Intellectual_Property=<b>"{Supplier's Intellectual Property}"</b> means {Intellectual_Property} of {Supplier}.
+Def.Supplier's_Intellectual_Property=<b>"{Supplier's_Intellectual_Property}"</b> means {Intellectual_Property} of {Supplier}.
 
-Def.Supplier_Personnel=<b>"{Supplier_Personnel}"</b> means all persons providing {{Services}} under {this_Agreement}.
+Def.Supplier_Personnel=<b>"{Supplier_Personnel}"</b> means all persons providing {Services} under {this_Agreement}.
 
-Def.Supplier's_Reserve_Intellectual_Property=<b>"{Supplier's_Reserved_Intellectual_Property}"</b> means {Supplier's Intellectual Property} listed as such on {Schedule F}, {Supplier's_Reserved_Intellectual_Property}.
+Def.Supplier's_Reserve_Intellectual_Property=<b>"{Supplier's_Reserved_Intellectual_Property}"</b> means {Supplier's_Intellectual_Property} listed as such on {Schedule_F}, {Supplier's_Reserved_Intellectual_Property}.
 
 
 Def.Third_Party_Intellectual_Property=<b>"{Third_Party_Intellectual_Property}"</b> means any software, applications, or components or other materials subject to {IP_Rights} owned by any party (including {Supplier}) other than {Company}.

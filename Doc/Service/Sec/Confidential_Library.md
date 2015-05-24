@@ -18,7 +18,7 @@ Engage.=[Z/Sec/0]
 
 WarnPersonnel.Ti=Advise Personnel
 
-WarnPersonnel.sec={Supplier} further agrees that prior to disclosing any {Proprietary Information} to {Supplier_Personnel} as set forth above, {Supplier} will: <ol><li>advise such {Supplier_Personnel} of the confidential and proprietary nature of the {Proprietary Information} and Notes; and</li><li>require them to sign the {Secrecy_and_Inventions_Agreement} attached hereto as {Schedule B}.</li></ol>
+WarnPersonnel.sec={Supplier} further agrees that prior to disclosing any {Proprietary Information} to {Supplier_Personnel} as set forth above, {Supplier} will: <ol><li>advise such {Supplier_Personnel} of the confidential and proprietary nature of the {Proprietary Information} and Notes; and</li><li>require them to sign the {Secrecy_and_Inventions_Agreement} attached hereto as {Schedule_B}.</li></ol>
 
 WarnPersonnel.=[Z/Sec/0]
 

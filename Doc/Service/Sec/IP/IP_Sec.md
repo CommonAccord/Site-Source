@@ -30,7 +30,7 @@ CP.=[Z/Sec/0]
 
 SP.Ti={Supplier}'s Property
 
-SP.sec=The assignment in Section {6.1.2} above does not include {Supplier's_Reserved_Intellectual_Property} properly listed on {Schedule F}.  {Supplier} will obtain a {Company} representative's signature on {Schedule F} before incorporating any of {Supplier's_Intellectual_Property} into the {Services} and/or any deliverables under {this_Agreement}.  {Supplier} will own {Supplier's_Reserved_Intellectual_Property} reflected on a properly executed {Schedule F}.
+SP.sec=The assignment in Section {6.1.2} above does not include {Supplier's_Reserved_Intellectual_Property} properly listed on {Schedule_F}.  {Supplier} will obtain a {Company} representative's signature on {Schedule_F} before incorporating any of {Supplier's_Intellectual_Property} into the {Services} and/or any deliverables under {this_Agreement}.  {Supplier} will own {Supplier's_Reserved_Intellectual_Property} reflected on a properly executed {Schedule_F}.
 
 SP.=[Z/Sec/0]
 

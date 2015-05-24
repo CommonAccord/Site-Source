@@ -1,4 +1,4 @@
-Ti={Personal_Data} Provided to Supplier
+Ti={Personal_Data} Provided to {Supplier}
 
 sec=In the event that {Supplier} accesses or otherwise {Processes} any {Company_Personal_Data} during its performance of the Agreement, it shall comply with the following obligations regarding {Company_Personal_Data}: <ol><li>{NeedToDo.sec}</li><li>{Conf.sec}</li><li>{Care.sec}</li><li>{CareByStaff.sec}</li><li>{Comply.sec}</li><li>{Expire.sec}</li></ol>
 
@@ -31,7 +31,7 @@ CareByStaff.SupplierEnsures.sec={Supplier} shall implement all measures necessar
 
 CareByStaff.ObtainNDA.sec={Supplier} shall require {Supplier's_Personnel}, as a condition of having access to {Company_Personal_Data}, to sign individual confidentiality agreements in which they each agree individually to comply with the obligations of this Section of the Agreement.
 
-CareByStaff.FormOfNDA.sec={Schedule B} of {this_Agreement} shall be deemed an adequate form of confidentiality agreement.
+CareByStaff.FormOfNDA.sec={Schedule_B} of {this_Agreement} shall be deemed an adequate form of confidentiality agreement.
 
 CareByStaff.SpecialNDA.sec={Company} may also require {Supplier} to require {Supplier's_Personnel}, as a condition of participating in specific assignments, to sign individual confidentiality agreements that are tailored for specific assignments.
 

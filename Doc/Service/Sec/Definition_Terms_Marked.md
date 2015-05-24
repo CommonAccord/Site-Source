@@ -8,6 +8,8 @@ This_Agreement=This <font color="green">Agreement</font>
 
 this_Agreement=this <font color="green">Agreement</font>
 
+Base_Prime_Rate=<font color="green">Base Prime Rate</font>
+
 Change_Order=<font color="green">Change Order</font>
 
 Company=<font color="green">Company</font>
@@ -30,6 +32,8 @@ Company_Property=<font color="green">Company Property</font>
 
 CWD=<font color="green">Contingent Workers Database</font>
 
+Daily_Discount_Rate=<font color="green">Daily Discount Rate</font>
+
 Data_Subject=<font color="green">Data Subject</font>
 
 Data_Subjects=<font color="green">Data Subjects</font>
@@ -51,6 +55,8 @@ party=<font color="green">party</font>
 parties=<font color="green">parties</font>
 
 Personal_Data=<font color="green">Personal Data</font>
+
+Prime_Rate=<font color="green">Prime Rate</font>
 
 PO=<font color="green">PO</font>
 
