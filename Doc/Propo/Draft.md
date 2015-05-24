@@ -24,13 +24,7 @@ Scope.1.Ti=Automation
 
 Scope.1.sec={Poc} on P2P record system.  Decentalised, easily-verified, IP- and hub-free.
 
-Scope.2.Ti=Documents
-
-Scope.2.1.sec=Deliverable framework and use cases for universal Master Supply and Master Services Agreements.  Machine readable across {Languages.List}. Suitable for B2B and B2C.
-
-Scope.2.2.sec=Demonstration of text transparency/traceability of CONSUMER -> Merchant -> Charter -> Regulators -> STAKEHOLDERS
-
-Scope.2.=[Z/Sec/s2]
+Scope.2.=[Propo/Sec/Document_Goals.md]
 
 Note=[Propo/Examples_of_Documents.md]
 
