@@ -2,11 +2,13 @@ Doc.Title=Project for a Reliable P2P Record-Keeping System for Supply Chains
 
 Secs={Intro.Sec}<li>{Propo.Sec}<li>{Scope.Sec}<li>{PT.Sec}<li>{Attend.Sec}
 
+Note=[Propo/Examples_of_Documents.md]
+
 Intro.Ti=Background
 
-Intro.1.sec=In the modern economy, when goods move or services are rendered, they often involve records.  Records assure us of the provenance of things.  They assure us of the seller's good title.  Of the terms of the transaction, etc. They permit proof of transfer of title.  They state conditions of the transfer and any continuing responsibilities of the transferor.  They provide traces for regulatory authorities, including customs and tax authorities.
+Intro.1.sec=In the modern economy, when goods move or services are rendered, they often involve records.  Records assure us of the provenance of things.  They assure us of the seller's good title.  Of the terms of the transaction.  They permit proof of transfer of title.  They state conditions of the transfer and any continuing responsibilities of the transferor.  They provide traces for regulatory authorities, including customs and tax.
 
-Intro.2.sec=Current systems are heterogeneous and complex.  They involve hubs and inconsistencies, lack of local{s/z}ation for different languages and jurisdictions, etc. 
+Intro.2.sec=Current systems are heterogeneous and complex.
 
 Intro.3.sec=We can do better.
 
@@ -25,8 +27,6 @@ Scope.1.Ti=Automation
 Scope.1.sec={Poc} on P2P record system.  Decentalised, easily-verified, IP- and hub-free.
 
 Scope.2.=[Propo/Sec/Document_Goals.md]
-
-Note=[Propo/Examples_of_Documents.md]
 
 Scope.3.Ti=Merchant Interface
 
