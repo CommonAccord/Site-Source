@@ -32,7 +32,7 @@ CP.=[Z/Sec/s2]
 
 SP.Ti=Supplier’s Intellectual Property
 
-SP.0.sec=If {Supplier} intends to exclude any Intellectual Property from the assignment in Section {6.2.3} above, it must list such Intellectual Property on {Schedule_F} hereto, Supplier’s Reserved Intellectual Property, and obtain a {Company} representative’s signature on {Schedule_F} before incorporating Supplier’s Intellectual Property into the {Services} and/or any deliverables under {this_Agreement}. {Supplier} will own approved "Supplier’s Reserved Intellectual Property” reflected on a properly executed {Schedule_F}. However, {Supplier} grants {Company} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: 
+SP.0.sec=If {Supplier} intends to exclude any Intellectual Property from the assignment in Section {IP.CP.Assign.Xref} above, it must list such Intellectual Property on {Schedule_F} hereto, Supplier’s Reserved Intellectual Property, and obtain a {Company} representative’s signature on {Schedule_F} before incorporating Supplier’s Intellectual Property into the {Services} and/or any deliverables under {this_Agreement}. {Supplier} will own approved "Supplier’s Reserved Intellectual Property” reflected on a properly executed {Schedule_F}. However, {Supplier} grants {Company} a fully-paid, perpetual, irrevocable, world-wide, non-exclusive license to: 
 
 SP.1.sec=prepare derivative works from Supplier’s Reserved Intellectual Property (using either {Company}'s own employees or independent contractors);
 
@@ -62,15 +62,15 @@ CodeEscrow.1.0.sec=To the extent that any deliverables provided by {Supplier} un
 
 CodeEscrow.1.1.sec=with an escrow agent designated by {Company}; and
 
-CodeEscrow.1.2.sec=pursuant to a written escrow agreement to be approved by {Company} in writing any and all materials relating to such software delivered under {this_Agreement}, included, but not limited to a copy of the object code, source code, documentation and all annotations thereto ("Materials”).
+CodeEscrow.1.2.sec=pursuant to a written escrow agreement to be approved by {Company} in writing any and all materials relating to such software delivered under {this_Agreement}, included, but not limited to a copy of the object code, source code, documentation and all annotations thereto ("{Materials}”).
 
 CodeEscrow.1.=[Z/Sec/s2]
 
 CodeEscrow.2.sec={Company} agrees to pay any amount necessary to create such escrow account and/or any related deposit fees. 
 
-CodeEscrow.3.sec=The escrow agreement shall provide, among other things, that in the event {this_Agreement} is terminated for insolvency or default as provided in Sections {17.4} or {17.5} below, the escrowed Materials shall be delivered to {Company}. 
+CodeEscrow.3.sec=The escrow agreement shall provide, among other things, that in the event {this_Agreement} is terminated for insolvency or default as provided in Sections {Expire.Insolvency.Xnum} or {Expire.Default.Xnum} below, the escrowed {Materials} shall be delivered to {Company}.
 
-CodeEscrow.4.sec={Company} is hereby granted a license to use the Materials, when delivered to repair, modify, improve upon and use the deliverables under his Agreement as contemplated under {this_Agreement}, including but not limited to the rights to reproduce, prepare derivative works, distribute, perform, display and transmit.
+CodeEscrow.4.sec={Company} is hereby granted a license to use the {Materials}, when delivered to repair, modify, improve upon and use the deliverables under his Agreement as contemplated under {this_Agreement}, including but not limited to the rights to reproduce, prepare derivative works, distribute, perform, display and transmit.
 
 CodeEscrow.=[Z/Sec/s4]
 

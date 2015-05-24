@@ -1,4 +1,4 @@
-Doc.Title=Project for a Reliable P2P Record-Keeping System for Supply Chains
+Doc.Title=Project for P2P system for  supply chains with codified legal terms
 
 Secs={Intro.Sec}<li>{Propo.Sec}<li>{Scope.Sec}<li>{PT.Sec}<li>{Attend.Sec}
 
