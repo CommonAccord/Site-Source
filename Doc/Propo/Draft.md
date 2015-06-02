@@ -24,7 +24,7 @@ Scope.Ti=Scope
 
 Scope.1.Ti=Automation
 
-Scope.1.sec={Poc} on P2P record system.  Decentalised, easily-verified, IP- and hub-free.
+Scope.1.sec={Poc} of a universal P2P transaction system.  Decentalised, easily-verified, IP-free and hub-free.
 
 Scope.2.=[Propo/Sec/Document_Goals.md]
 
