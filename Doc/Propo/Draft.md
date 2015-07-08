@@ -6,7 +6,7 @@ Note=[Propo/Examples_of_Documents.md]
 
 Intro.Ti=Background
 
-Intro.1.sec=In the modern economy, when goods move or services are rendered, they often involve records.  Records assure us of the provenance of things.  They assure us of the seller's good title.  Of the terms of the transaction.  They permit proof of transfer of title.  They state conditions of the transfer and any continuing responsibilities of the transferor.  They provide traces for regulatory authorities, including customs and tax.
+Intro.1.sec=In the modern economy, when goods move or services are rendered, there are records.  Records assure us of the provenance of things.  They assure us of the seller's good title.  Of the terms of the transaction.  They prove transfer of title.  They state conditions of the transfer and any continuing responsibilities of the transferor.  They provide traces for regulatory authorities, including customs and tax.
 
 Intro.2.sec=Current systems are heterogeneous and complex.
 
