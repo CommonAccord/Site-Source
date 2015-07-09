@@ -5,7 +5,7 @@
 
 <a href="index.php?action=list&file=/">Documents</a>:<br>
 
-<br> <a href="index.php?action=source&file=/Propo/Draft.md">Project Proposal</a>:<br><br>
+<br> <a href="index.php?action=doc&file=/Propos/Draft.md">Project Proposal</a>:<br><br>
 
 This is a subset of the docs from <a href="http://www.commonaccord.org">commonaccord.org</a>.<br>
 
