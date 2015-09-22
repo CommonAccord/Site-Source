@@ -1,8 +1,8 @@
 Doc.Title=Project for P2P system for  supply chains with codified legal terms
 
-Secs={Intro.Sec}<li>{Propo.Sec}<li>{Scope.Sec}<li>{PT.Sec}<li>{Attend.Sec}
+Secs={Intro.Sec}<li>{Propos.Sec}<li>{Scope.Sec}<li>{PT.Sec}<li>{Attend.Sec}
 
-Note=[Propo/Examples_of_Documents.md]
+Note=[Propos/Examples_of_Documents.md]
 
 Intro.Ti=Background
 
@@ -14,11 +14,11 @@ Intro.3.sec=We can do better.
 
 Intro.=[Z/Sec/s3]
 
-Propo.Ti=A project to make a P2P, blockchain-based, legally-enabled system of records for supply chains
+Propos.Ti=A project to make a P2P, blockchain-based, legally-enabled system of records for supply chains
 
-Propo.sec=Loren Ipsum
+Propos.sec=Loren Ipsum
 
-Propo.=[Z/Sec/0]
+Propos.=[Z/Sec/0]
 
 Scope.Ti=Scope
 
@@ -26,7 +26,7 @@ Scope.1.Ti=Automation
 
 Scope.1.sec={Poc} of a universal P2P transaction system.  Decentalised, easily-verified, IP-free and hub-free.
 
-Scope.2.=[Propo/Sec/Document_Goals.md]
+Scope.2.=[Propos/Sec/Document_Goals.md]
 
 Scope.3.Ti=Merchant Interface
 
@@ -76,4 +76,4 @@ s/z=s
 
 Languages.List=English, French and German
 
-Attend.=[Propo/Interested.md]
+Attend.=[Propos/Interested.md]
